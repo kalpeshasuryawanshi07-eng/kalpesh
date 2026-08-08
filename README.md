@@ -96,15 +96,6 @@ Production-grade EdTech platform for Ayurveda students — MERN stack with AI-po
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Media Vault &nbsp; <img src="https://img.shields.io/badge/STATUS-ACTIVE-f97316?style=flat-square" />
-**Local Node.js Media Manager**
-
-Desktop utility with zip-on-store / unzip-on-playback for encrypted local media management. Upgrading to BullMQ job queue for production-grade processing.
-
-**Stack:** &nbsp; `Node.js` &nbsp; `Archiver` &nbsp; `Express` &nbsp; `BullMQ`
-
-</td>
-<td width="50%" valign="top">
 
 ### 💡 Always Building...
 **Open to Collaborate**
